@@ -22,6 +22,7 @@ Your model performance will be evaluated on the basis of your prediction of loan
 ## Model & Their Accuracy
 
 **1. Decision Tree Classifier:-(Without Adding Max Depth & Min Sample Leaf)**
+
 ![Capture4](https://user-images.githubusercontent.com/62636740/110601182-ae157f80-81aa-11eb-8f55-b528c70bc1bf.PNG)
 
 **a. DTC Accurcay With Max Depth Chart:**
